@@ -11,7 +11,8 @@
   #### You can manually change how the code work with text editor, it's quite easy.
 ------------------------------------
 ## Chúc mừng sinh nhật.
-  #### Chào nhé, Khiêm này. Quà phụ viết cho vui. Mục đích sắp xếp tập tin theo đuôi, tao mới chỉ thiết kế chủ yếu cho Downloads thôi.
+  #### Chào nhé, Khiêm này. Gọi là quà phụ viết cho vui mà tặng trước :). 
+  ### Mục đích chủ yếu sắp xếp tập tin theo đuôi, tao mới chỉ thiết kế chủ yếu cho Downloads thôi. Mai sau học thêm được gì viết thêm. Mới học :v
   #### Tải python về, 3.9 càng tốt. Sau đó đưa file main.py vào thư mục cần dùng (Downloads :v)
   * Đêm rồi, format Readme có vẻ hơi ngáo.
-## Sinh nhật vui vẻ nhé, sớm ra trường còn thuê tao về làm, với lại có người yêu sớm nhé :v
+## Sinh nhật vui vẻ nhé, sớm có người yêu, với lại ra trường nhanh nhanh còn thuê tao về làm :v
