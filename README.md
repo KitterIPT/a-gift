@@ -1,5 +1,5 @@
 # File-sorting 
-##[Windows][Python]
+[Windows][Python]
 --------------------------------------
 * This is a sorting script, intended for windows OS, the best use is for Downloads folder.
 
