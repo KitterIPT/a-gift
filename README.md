@@ -27,6 +27,6 @@
 ## Tuổi mới vui vẻ nhé, sớm có người yêu, với lại ra trường nhanh nhanh còn thuê tao về làm :v
 * You know Phuong, you don't need to use this at all. I mean, if you don't, I'll still use it anyway, so don't worry :D
 ------------------------------------
-* This is a little fun project. I guess I'm doing this as a birthday gift; yes, it's a weird gift. Don't download this :)
-* Doing this as a part of learning new languages also. Yes, it looks stupid, don't judge.
+* This is a little fun project. I guess I'm doing this as a birthday gift; yes, it's a weird gift.
+* Doing this as a part of learning new languages also.
 * Guess you can say this is an evolvable gift. Hopefully so, haha.
