@@ -10,7 +10,7 @@
   #### Copy the script inside the folder that you want to sort and then just activate the script.
   #### You can manually change how the code work with text editor, it's quite easy.
 ------------------------------------
-## Chúc mừng sinh nhật.
+## Chúc mừng sinh nhật chị tôi.
   #### Chào nhé, Khiêm này. Gọi là quà phụ viết cho vui mà tặng trước :). 
   ### Mục đích chủ yếu sắp xếp tập tin theo đuôi, tao mới chỉ thiết kế chủ yếu cho Downloads thôi. Mai sau học thêm được gì viết thêm. Mới học :v
   #### Tải python về, 3.9 càng tốt. Sau đó đưa file main.py vào thư mục cần dùng (Downloads :v)
