@@ -1,18 +1,31 @@
-# I guess it's a gift
+# File-sorting[Windows][Downloads folder especially]
 --------------------------------------
-* A litte fun project, I guess I'm doing this as a birthday gift, don't download this :)
-* 1st day in Python, can say this is a 1-day-challenge for language learning.
-* This gift can and will be evolve, surely xD 
--------------------------------------
-* Intented for windows. This is a sorting scripts, best use is for Downloads folder in Windows OS.
-* Required **Python 3.9' or later** to be able to function properly(and for best experiences).
+* This is a sorting script, intended for windows OS, the best use is for Downloads folder.
+
 ## Requirement-steps:
-  #### Copy the script inside the folder that you want to sort and then just activate the script.
-  #### You can manually change how the code work with text editor, it's quite easy.
+  #### Download Python 3.7 or later on the official website.
+  #### Copy the script inside the folder that you want to sort and then just activate the script (file ***main.py***) by open it.
+  #### You can manually change how the scripts working with a text editor, it's quite easy.
+  		* Format: (extension : folder)
+	  ```python
+		'.exe': 'Programs',
+		'.air': 'Programs',
+		'.msi': 'Programs',
+		'.rpm': 'Programs',
+		'.dmg': 'Programs',
+	  ```
 ------------------------------------
 ## Chúc mừng sinh nhật chị tôi.
-  #### Chào nhé, Khiêm này. Gọi là quà phụ viết cho vui mà tặng trước :). 
-  ### Mục đích chủ yếu sắp xếp tập tin theo đuôi, tao mới chỉ thiết kế chủ yếu cho Downloads thôi. Mai sau học thêm được gì viết thêm. Mới học :v
-  #### Tải python về, 3.9 càng tốt. Sau đó đưa file main.py vào thư mục cần dùng (Downloads :v)
-  * Đêm rồi, format Readme có vẻ hơi ngáo.
-## Sinh nhật vui vẻ nhé, sớm có người yêu, với lại ra trường nhanh nhanh còn thuê tao về làm :v
+  * Chào nhé. Gọi là quà phụ viết cho vui mà tặng trước :). 
+  * Mục đích chủ yếu sắp xếp tập tin theo đuôi, chủ yếu mới thiết kế cho Downloads.
+
+  #### Các bước:
+  * Tải python về, 3.7 hoặc về sau. 
+  * Đưa file main.py vào thư mục cần dùng
+
+## Tuổi mới vui vẻ nhé, sớm có người yêu, với lại ra trường nhanh nhanh còn thuê tao về làm :v
+
+------------------------------------
+* This is a little fun project. I guess I'm doing this as a birthday gift; yes, it's a weird gift. Don't download this :)
+* Doing this as a part of learning new languages also. Yes, it looks stupid, don't judge.
+* Guess you can say this is an evolvable gift. Hopefully so, haha.
