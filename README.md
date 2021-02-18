@@ -1,6 +1,6 @@
 # I guess it's a gift
 --------------------------------------
-* A litte fun project, I guess I'm doing this as a birthday gift, don't download this if you're not her :)
+* A litte fun project, I guess I'm doing this as a birthday gift, don't download this :)
 * 1st day in Python, can say this is a 1-day-challenge for language learning.
 * This gift can and will evolve xD 
 -------------------------------------
