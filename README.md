@@ -2,7 +2,7 @@
 --------------------------------------
 * A litte fun project, I guess I'm doing this as a birthday gift, don't download this :)
 * 1st day in Python, can say this is a 1-day-challenge for language learning.
-* This gift can and will be evolve, maybe xD 
+* This gift can and will be evolve, surely xD 
 -------------------------------------
 * Intented for windows. This is a sorting scripts, best use is for Downloads folder in Windows OS.
 * Required **Python 3.9' or later** to be able to function properly(and for best experiences).
