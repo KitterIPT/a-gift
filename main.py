@@ -190,12 +190,19 @@ def file_sort(source_dir, destination_dir):
 			print("Do not have Permisson to move {0}".format(f))
 
 
+# For when running script directly.
+def script_stop():
+	input("Press any key to continute.\n")
+
+
 def main():
 	# Get current directory.
 	# Will be change soon that you can put directory's path in, destination directory as well.
 	current_dir = os.getcwd()
 
 	file_sort(current_dir, current_dir)
+
+	script_stop()
 
 if __name__ == "__main__":
 	main()
