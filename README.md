@@ -7,14 +7,6 @@
   #### Download Python 3.7 or later on the official website.
   #### Copy the script inside the folder that you want to sort and then just activate the script (file ***main.py***) by open it.
   #### You can manually change how the scripts working with a text editor, it's quite easy.
-  		* Format: (extension : folder)
-	  ```python
-		'.exe': 'Programs',
-		'.air': 'Programs',
-		'.msi': 'Programs',
-		'.rpm': 'Programs',
-		'.dmg': 'Programs',
-	  ```
 ------------------------------------
 ## Chúc mừng sinh nhật chị tôi.
   * Chào nhé. Gọi là quà phụ viết cho vui mà tặng trước :). 
