@@ -1,0 +1,100 @@
+#types.yaml
+.application: Programs
+.exe:         Programs
+.air:         Programs
+.msi:         Programs
+.rpm:         Programs
+.dmg:         Programs
+
+.swf:         Programs
+.apk:         Programs
+.iso:         Programs
+
+.pptx:        Documents #Powerpoints
+.ppt:         Documents #Powerpoints
+
+.doc:         Documents #Words
+.docx:        Documents #Words
+.dotx:        Documents #Words
+
+.xls:         Documents #Excels
+.xlsx:        Documents #Excels
+
+.pdf:         Documents #PDFs
+
+.xml:         Documents #Web
+.htm:         Documents #Web
+.html:        Documents #Web
+
+.odp:         Documents
+.wbk:         Documents
+.odt:         Documents
+
+.txt:         Documents #Text
+.mht:         Documents #Text
+
+.epub:        Documents #Books
+.fb2:         Documents #Books
+.mobi:        Documents #Books
+.djvu:        Documents #Books
+
+.odb:         Documents #Databases
+.mwb:         Documents #Databases
+.sql:         Documents #Databases
+.sql.gz:      Documents #Databases
+.tgz:         Documents #Databases
+.tar.gz:      Documents #Databases
+.csv:         Documents #Databases
+
+.jnlp:        Documents #Scripts
+.c:           Documents #Scripts
+.sh:          Documents #Scripts
+.py:          Documents #Scripts
+.phtml:       Documents #Scripts
+.php:         Documents #Scripts
+.aspx:        Documents #Scripts
+.pl:          Documents #Scripts
+.js:          Documents #Scripts
+
+.bak:         Documents #Backup
+.bk:          Documents #Backup
+
+.log:         Documents #Logs
+
+.png:         Photos
+.jpg:         Photos
+.jpeg:        Photos
+.bmp:         Photos
+
+.gif:         Photos
+.tiff:        Photos
+.raw:         Photos
+.eps:         Photos
+
+.xcf:         Photos #Photoshop
+.psd:         Photos #Photoshop
+
+.jar:         Compressed
+.zip:         Compressed
+.rar:         Compressed
+.tar:         Compressed
+.gz:          Compressed
+.7z:          Compressed
+.bz2:         Compressed
+
+.mp4:         Videos
+.mkv:         Videos
+.flv:         Videos
+.avi:         Videos
+
+.mp3:         Music
+.ogg:         Music
+.wav:         Music
+
+.aux:         Others #Latex
+.dvi:         Others #Latex
+.tex:         Others #Latex
+
+.dll:         Others #Windows DLLs
+
+.torrent:     Others #Torrents

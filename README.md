@@ -5,7 +5,7 @@
 
 ## Requirement-steps:
   #### Download Python 3.7 or later on the official website.
-  #### Drop the script (file ***main.py***) inside the folder that you want to sort and then just activate by launching it. You can activate it using commandline or shell for sorting informations.
+  #### Drop the script (file ***main.py***) inside the folder that you want to sort and then just activate by launching it.
   #### You can manually change how the scripts working with a text editor, it's quite easy.
 ------------------------------------
 ## Chúc mừng sinh nhật chị tôi.
