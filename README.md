@@ -1,6 +1,5 @@
-# File-sorting 
+# File-sorting ("This is a gift for someone")
 [Windows][Python]
-("It's a gift")
 --------------------------------------
 * This is a sorting script using Python, intended for windows OS, the best use is for Downloads folder.
 
