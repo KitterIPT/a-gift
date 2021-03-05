@@ -1,27 +1,37 @@
 import os
 import shutil
 import yaml
+import tkinter as tk
 
 
 # A small gift for you. Happy birthday, Phuong. Hope it brings you joy :) This feels a bit cringy haha, whatever.
 """
 	Descriptions: 	Sorting scripts base on file extension.
 	Version: 		0.1.2.1
+	Python_Version:	3.9.1
 	Author: 		KitterIPT
 	Date_Created:	17/02/2021
-	Date_Modified:	24/02/2021
+	Date_Modified:	25/02/2021
 	======================================
 	Format: 	1) noun_obj
 				2) obj_verb
 				3) obj for an object, obj(s) for list of objects
-	======================================
-	NTBD:	* Data serialization (JSON or YAML - prefer YAML).
-			* Source and Destination directory.
-			* SysInfo using sys.exc_info().
-			* Applying decorator and such.
-			* What's deprecated and recursive.
-			* User Interface - GUI (PyQt, Tkinter, wxPython).
-				/or Scripting options (argparser).
+	--------------------------------------
+	NTBD:	* Data serialization (JSON or YAML - prefer YAML). 	[x]
+			* Object-oriented programming apply 				[x]
+			* Source and Destination directory.					[o]
+			* SysInfo using sys.exc_info().						[o]
+			* Applying decorator and such.						[o]
+			* What's deprecated and recursive.					[o]
+			* User Interface - GUI (PyQt, Tkinter, wxPython).	[-]
+				/or Scripting options (argparser).				[/]
+			** GUI: Show result after [And maybe dir explorer]	[.]
+	NTBD(functions):	* Sub-folder for each types 							[o]
+						* Options for sort: Only contains/full file_name		[o]
+						* Look into sub-folders? + Remove empty folder after?	[o]
+						* Orginaztion for each type with file_ext (Tickbox also)[o]
+
+	====[x] - Done | [o] - Not yet | [-] - WIP | [/] - discarded | [.] Consider
 """
 
 
@@ -72,7 +82,7 @@ class FileSorting():
 		print("Source Directory: {0}\nDestination Directory: {1}".format(self.source_dir, self.destination_dir))
 		print("================")
 
-		# Go through each file one by one.
+		# Go through source directory's files one by one.
 		for f in os.listdir(self.source_dir):
 			# Split and get files extenstion.
 			name_file, ext_file = os.path.splitext(f)
@@ -85,36 +95,28 @@ class FileSorting():
 				elif f == 'KitterIPT':
 					print("Yo. Guess who's back. Back again. Kitter`s back. Tell a friend.\n")
 
-				# File does not have extension.
 				elif not ext_file:
 					pass
 					#print("File {} doesn`t have extension.".format(f))
 
-				# File does have extension. 
 				else:
 					self.sorted_move(ext_file, f)
 					
-
-			# No permisson.
 			except (FileNotFoundError, PermissionError):
 				print("Do not have Permisson to move {0}".format(f))
 
 
-# For when running script directly. Only with no additional package from virtual environment.
-def screen_pause():
-	input("Press any key to continute.\n")
-
-
 def main():
-	# Get current directory.
-	# Will be change soon that you can put directory's path in, destination directory as well.
+	# Variables
 	current_dir = os.getcwd()
 	yaml_path = current_dir + '\\' + 'types.yaml'
 	types = FileProcess.yaml_load(yaml_path)
 
+	# Sorting
 	sorting = FileSorting(current_dir, current_dir, types)
-	
 	sorting.file_sort()
+
+	# TK GUI
 
 
 if __name__ == "__main__":
